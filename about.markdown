@@ -13,7 +13,7 @@ I also have a lifelong passion for music, jazz and its round abouts in particula
 
 ### Mastodon
 
-Along with my many interests I actually run a Mastodon server on [mograph.social](https://mograph.social). This is an experiment into trying to build a space for motion designers, VFX artists and similar outside of the mainstream paltforms like Twitter or Facebook and bring some visual excitment into the [Fediverse](https://fediverse.party/en/fediverse/).
+Along with my many interests I actually run a [Mastodon](https://joinmastodon.org/) server on [mograph.social](https://mograph.social). This is an experiment aimed at trying to build a space for motion designers, VFX artists and similar outside of the mainstream paltforms like Twitter or Facebook and bring some visual excitment into the [Fediverse](https://fediverse.party/en/fediverse/).
 
 ### This blog
 
