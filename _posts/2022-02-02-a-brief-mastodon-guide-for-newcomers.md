@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "A brief Mastodon guide for newcomers"
-date:   2022-02-02 15:13:50 +0000
+date:   2020-02-02 15:13:50 +0000
 categories: mastodon guide
 ---
 This is a quick reference guide for brand new Mastodon (and Fediverse) users who may be feel like they're screaming into the void when they first join _mograph.social_ (or any other instance for that matters).

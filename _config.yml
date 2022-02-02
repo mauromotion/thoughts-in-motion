@@ -29,6 +29,7 @@ github_username:  mauromotion
 
 # Build settings
 theme: minima
+
 plugins:
   - jekyll-feed
 
