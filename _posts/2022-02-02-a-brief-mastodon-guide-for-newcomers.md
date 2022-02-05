@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "A brief Mastodon guide for newcomers"
 date:   2020-02-02 15:13:50 +0000
 categories: mastodon guide

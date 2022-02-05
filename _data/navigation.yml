@@ -1,0 +1,9 @@
+# main links
+main:
+  
+  - title: "Home"
+    url: /
+  - title: "Portfolio"
+    url: https://mauromotion.com
+  - title: "About"
+    url: /about/

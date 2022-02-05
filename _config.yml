@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Thoughts in Motion
+subtitle: A personal blog.
 email: hello@mauromotion.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is Mauro's personal blog. Motion designer, music lover, overall nerd.
@@ -26,12 +27,59 @@ baseurl: "/thoughts-in-motion" # the subpath of your site, e.g. /blog
 url: "https://mauromotion.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mauromograph
 github_username:  mauromotion
+logo: "/assets/images/MauroMotion_logo_v002.png"
+github: [metadata]
 
 # Build settings
-theme: minima
+theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "mauro" # "air"contrast", "aqua", "dirt", "sunrise", "dark", "default", "neon", "plum", "mint"
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-feed
+  - jekyll-include-cache
+
+# Site Author
+author:
+  name             : "Mauro Di Ianni"
+  avatar           : "assets/images/profile_picture.jpg"
+  bio              : "Motion designer, music lover, overall nerd."
+  location         : "London, UK"
+  email            : 
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:blog@mauromotion.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://mauromotion.com"
+    - label: "Mastodon"
+      icon: "fab fa-mastodon"
+      url: "https://mograph.social/@mauro"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mauromograph"
+
+include: ["_pages"]
+
+defaults:
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.

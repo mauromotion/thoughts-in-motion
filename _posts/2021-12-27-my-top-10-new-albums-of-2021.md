@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title:  "My top 10 new albums of 2021"
 date:   2021-12-27 15:13:50 +0000
 categories: music
