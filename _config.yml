@@ -31,12 +31,12 @@ logo: "/assets/images/MauroMotion_logo_v002.png"
 github: [metadata]
 
 # Build settings
-theme: minimal-mistakes-jekyll
-remote_theme: mmistakes/minimal-mistakes
+# theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 minimal_mistakes_skin: "mauro" # "air"contrast", "aqua", "dirt", "sunrise", "dark", "default", "neon", "plum", "mint"
 
 plugins:
-  - jekyll-remote-theme
+  # - jekyll-remote-theme
   - jekyll-feed
   - jekyll-include-cache
 
