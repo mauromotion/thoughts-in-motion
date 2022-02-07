@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "27-01-2022 // Soundtrack of the day // Combo Chimbita"
+title:  "27-01-2022 // Soundtrack of the Day // Combo Chimbita"
 date:   2022-01-27 15:13:50 +0000
 categories: music
 ---
