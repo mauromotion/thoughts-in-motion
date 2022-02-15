@@ -19,9 +19,9 @@ I divide my interest for music in two different (but related) activities:
 
 - There are also some other music website that I tend to browse regularly:
 
-1. [allmusic.com](https://www.allmusic.com)
-2. [thequietus.com](https://thequietus.com/)
-3. [beatsperminute.com](https://beatsperminute.com/)
+	1. [allmusic.com](https://www.allmusic.com)
+	2. [thequietus.com](https://thequietus.com/)
+	3. [beatsperminute.com](https://beatsperminute.com/)
 
 I'm always on the look for good music writings and this list tends to vary with time.
 
