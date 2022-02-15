@@ -15,19 +15,19 @@ I divide my interest for music in two different (but related) activities:
 
 ## Research & Discovery resources:
 
-- The main source of new music to me is, without any doubt, [Bandcamp](https://bandcamp.com/mauromotion). I use their website extensively, from their curated articles/lists to their podcasts and their suggestions algorithm - it's a continue flow of interesting music of all genres.
+The main source of new music to me is, without any doubt, [Bandcamp](https://bandcamp.com/mauromotion). I use their website extensively, from their curated articles/lists to their podcasts and their suggestions algorithm - it's a continue flow of interesting music of all genres.
 
-- There are also some other music website that I tend to browse regularly:
+There are also some other music website that I tend to browse regularly:
 
-	1. [allmusic.com](https://www.allmusic.com)
-	2. [thequietus.com](https://thequietus.com/)
-	3. [beatsperminute.com](https://beatsperminute.com/)
+1. [allmusic.com](https://www.allmusic.com)
+2. [thequietus.com](https://thequietus.com/)
+3. [beatsperminute.com](https://beatsperminute.com/)
 
-	I'm always on the look for good music writings and this list tends to vary with time.
+I'm always on the look for good music writings and this list tends to vary with time.
 
-- I also receive (way too) many newsletters, mostly from labels and record stores. Although they clutter my mailbox quite a bit I definitely find some interesting albums in there and they help me keeping up with some reissues that I might otherwise miss.
+I also receive (way too) many newsletters, mostly from labels and record stores. Although they clutter my mailbox quite a bit I definitely find some interesting albums in there and they help me keeping up with some reissues that I might otherwise miss.
 
-- I like to listen to some radio stations from time to time. Mostly [BBC6](https://www.bbc.co.uk/sounds/play/live:bbc_6music) but also [Worldwide FM](https://worldwidefm.net/). In general (and if you know, you might have noticed a pattern here) I tend to follow anything that the man, [Giles Peterson](https://www.gillespetersonworldwide.com/), suggests or produces, recently.
+I like to listen to some radio stations from time to time. Mostly [BBC6](https://www.bbc.co.uk/sounds/play/live:bbc_6music) but also [Worldwide FM](https://worldwidefm.net/). In general (and if you know, you might have noticed a pattern here) I tend to follow anything that the man, [Giles Peterson](https://www.gillespetersonworldwide.com/), suggests or produces, recently.
 
 ## And now for the actual listening experience:
 
