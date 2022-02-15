@@ -23,7 +23,7 @@ I divide my interest for music in two different (but related) activities:
 	2. [thequietus.com](https://thequietus.com/)
 	3. [beatsperminute.com](https://beatsperminute.com/)
 
-I'm always on the look for good music writings and this list tends to vary with time.
+	I'm always on the look for good music writings and this list tends to vary with time.
 
 - I also receive (way too) many newsletters, mostly from labels and record stores. Although they clutter my mailbox quite a bit I definitely find some interesting albums in there and they help me keeping up with some reissues that I might otherwise miss.
 
