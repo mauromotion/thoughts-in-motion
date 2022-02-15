@@ -84,7 +84,7 @@ When it's convenient (mostly to avoid shipping fees, which well, I already pay m
 
 A few times I've bought LPs from random sellers/stores on Discogs as well, although I tend not to because if anything goes wrong with the vinyl not all vendors offer a nice customer service for returns, it's a bit of a hit and miss experience and there are not guarantees, as far as I know. I'd rather avoid.
 
-## Playing and listening equipment::
+## Playing and listening equipment:
 
 The afore mentioned Schiit stack is comprised of the following components:
 
