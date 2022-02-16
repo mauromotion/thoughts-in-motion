@@ -13,7 +13,7 @@ I also have a lifelong passion for music, jazz and its round abouts in particula
 
 ### Mastodon
 
-Along with my many interests I actually run a [Mastodon](https://joinmastodon.org/) server on [mograph.social](https://mograph.social). This is an experiment aimed at trying to build a space for motion designers, VFX artists and similar outside of the mainstream paltforms like Twitter or Facebook and bring some visual excitment into the [Fediverse](https://fediverse.party/en/fediverse/).
+Along with my many interests I actually run a [Mastodon](https://joinmastodon.org/) server on [mograph.social](https://mograph.social). This is an experiment aimed at trying to build a space for motion designers, VFX artists and similar outside of the mainstream platforms like Twitter or Facebook and bring some visual excitment into the [Fediverse](https://fediverse.party/en/fediverse/).
 
 ### This blog
 
@@ -21,4 +21,4 @@ The idea with this blog is to create a repository of a few things I discover in 
 
 Also, I might use this space to post some work in progress and experiments I do with moving (or static) images.
 
-Overall, I wish this space to become a little piece of the web for myself.
+Overall, I wish this space to become a little piece of the web for myself in the spirit of the [IndieWeb](https://indieweb.org/).
