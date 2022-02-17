@@ -22,7 +22,7 @@ To replace the social media updates I keep this page inspired by [Derek Silvers]
 ## For all the rest
 	
 - I'm dedicating way too much time into developing this blog. I think I'm addicted now.
-- I'm very much interested in PKM, productivity, Zettelkasten method, PARA method ()both of which I'm currently using), and the fantastic software that I'm constantly typing on for everything [Obsidian](https://obsidian.md/).
+- I'm very much interested in [PKM](https://en.wikipedia.org/wiki/Personal_knowledge_management) (Personal Knowledge Management), productivity, [Zettelkasten method](https://en.wikipedia.org/wiki/Zettelkasten), [PARA method](https://fortelabs.co/blog/para/) (both of which I'm currently using), and the fantastic software that I'm constantly typing on for everything [Obsidian](https://obsidian.md/).
 - After a bad 2021 with injuries to both my ankle and my knee I'm finally back on track with running on a regular schedule. Actually last week I hit a personal record time on a 10K run at 54:49. Pretty good if you ask me!
 
 #### Currently listening
