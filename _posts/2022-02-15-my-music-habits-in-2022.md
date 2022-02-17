@@ -1,7 +1,7 @@
 ---
 layout: single
 # classes: wide
-toc: true
+toc: false
 title: "My music habits in 2022"
 date: 2022-02-15 15:45:47 +0000
 categories: music
