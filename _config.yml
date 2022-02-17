@@ -40,8 +40,8 @@ author:
       url: "https://twitter.com/mauromograph"
     - label: "Last.fm"
       icon: "fab fa-lastfm-square"
-      url: "https://www.last.fm/user/madmonk80"  
-
+      url: "https://www.last.fm/user/madmonk80"
+    
 include: ["_pages"]
 
 defaults:
@@ -60,7 +60,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 # Exclude from processing.
 # The following items will not be processed, by default.
