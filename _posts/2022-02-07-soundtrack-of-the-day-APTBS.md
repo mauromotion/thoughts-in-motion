@@ -2,7 +2,7 @@
 layout: single
 title: "07-02-2022 // Soundtrack of the Day // A Place To Bury Strangers"
 date: 2022-02-07 19:45:47 +0000
-categories: music
+categories: Music
 ---
 I saw [A Place To Bury Strangers](https://www.aplacetoburystrangers.com/) live in 2017, they were opening for The Black Angels in Brixton.
 I remember I was completely blown away, such an energetic performance. Their [new album](https://aplacetoburystrangers.bandcamp.com/album/see-through-you) has come out a few days ago and it's probably one of their best, at least to my taste.

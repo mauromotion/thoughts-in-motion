@@ -4,7 +4,7 @@ layout: single
 toc: false
 title: "My music habits in 2022"
 date: 2022-02-15 15:45:47 +0000
-categories: music
+categories: Music
 ---
 
 About a year ago, the second year into the covid-19 pandemic, I decided (and frankly needed) to get back into actively listening to music.
