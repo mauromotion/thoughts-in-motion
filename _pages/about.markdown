@@ -5,7 +5,7 @@ permalink: /about/
 ---
 My name is Mauro and I work as a motion designer, actually freelancing around London, UK. You can have a look at my portfolio here: [mauromotion.com](https://mauromotion.com).
 
-At the moment I'm on a mission to become proficient with [Houdini](https://www.sidefx.com/). Wish me luck!
+See what I'm doing [now](/now).
 
 ### Music
 
