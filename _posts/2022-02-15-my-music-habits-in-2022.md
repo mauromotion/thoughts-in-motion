@@ -102,3 +102,7 @@ Not the most audiophile of the setups but for my actual needs is perfectly fine 
 If you made it to the end and are interested in the matter, wanna share some good music or have any related questions feel free to hit me up on Twitter/Mastodon or to send me an email.
 
 Until then, happy listening!
+
+![My actual setup](/assets/images/photo_2021-04-13_11-11-07.jpg)
+
+*My actual setup.*
