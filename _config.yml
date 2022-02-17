@@ -27,17 +27,20 @@ author:
   email            : 
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: "fas fa-envelope"
       url: "mailto:blog@mauromotion.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+    - label: "Portfolio"
+      icon: "fab fa-behance-square"
       url: "https://mauromotion.com"
     - label: "Mastodon"
       icon: "fab fa-mastodon"
       url: "https://mograph.social/@mauro"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fab fa-twitter-square"
       url: "https://twitter.com/mauromograph"
+    - label: "Last.fm"
+      icon: "fab fa-lastfm-square"
+      url: "https://www.last.fm/user/madmonk80"  
 
 include: ["_pages"]
 
