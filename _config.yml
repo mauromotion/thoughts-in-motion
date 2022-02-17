@@ -66,6 +66,15 @@ category_archive:
   type: liquid
   path: /categories/
 
+footer:
+  links:
+    - label: "Mastodon"
+      icon: "fab fa-mastodon"
+      url: "https://mograph.social/@mauro"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/mauromograph"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
