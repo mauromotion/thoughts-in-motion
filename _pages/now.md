@@ -9,22 +9,21 @@ To replace the social media updates I keep this page inspired by [Derek Silvers]
 
 - Still living in SE London with my partner Flavia and our cat Jessy.
 
+![The traditional Christmas photo](/assets/images/christmas_pic.jpg)
+*The traditional Christmas photo with lasagna.*
+
 - Still freelancing from home since March 21st 2020.
-
 - I'm not actually actively looking for new clients though, I'm just working for my regulars when they need me - in the meantime I'm studying various things to improve my career. Such as...
-
-	- Currently hard at work learning Houdini. I'm doing great progress, I don't feel like I'm a beginner anymore. Although, it's not super easy to kickstart my own projects with it (yet).
-	- Quite a lot of Octane tinkering - Redshift is still my main render engine but I finally managed to learn Octane as well.
-	- I took the online course "Design Bootcamp" from School of Motion to tackle once and for all my imposter syndrome. It was very intense but very much worth it.
-	- Working on various ideas for personal projects to develop further.
+- Currently hard at work learning Houdini. I'm doing great progress, I don't feel like I'm a beginner anymore. Although, it's not super easy to kickstart my own projects with it (yet).
+- Quite a lot of Octane tinkering - Redshift is still my main render engine but I finally managed to learn Octane as well.
+- I took the online course "Design Bootcamp" from School of Motion to tackle once and for all my imposter syndrome. It was very intense but very much worth it.
+- Working on various ideas for personal projects to develop further.
 
 ## For all the rest
 	
 - I'm dedicating way too much time into developing this blog. I think I'm addicted now.
-
 - I'm very much interested in PKM, productivity, Zettelkasten method, PARA method ()both of which I'm currently using), and the fantastic software that I'm constantly typing on for everything [Obsidian](https://obsidian.md/).
-
-- After a bad 2021 with injuries to both my ankle and my knee I'm finally back on track with running on a regular schedule. Actually last week I hit a personal record time on a 10K run at 54:49. Pretty good!
+- After a bad 2021 with injuries to both my ankle and my knee I'm finally back on track with running on a regular schedule. Actually last week I hit a personal record time on a 10K run at 54:49. Pretty good if you ask me!
 
 #### Currently listening
 
