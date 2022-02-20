@@ -58,6 +58,7 @@
   li {
     font-family: $sans-serif;
     font-size: $type-size-6;
+    font-style: normal;
     line-height: 1.5;
   }
 
@@ -187,6 +188,7 @@
   display: table-cell;
   vertical-align: middle;
   font-family: $sans-serif;
+  font-style: normal;
   z-index: 20;
   cursor: pointer;
 
@@ -312,6 +314,7 @@
     padding-bottom: 2px;
     color: inherit;
     font-size: $type-size-5;
+    font-style: normal;
     text-decoration: none;
 
     &:hover {

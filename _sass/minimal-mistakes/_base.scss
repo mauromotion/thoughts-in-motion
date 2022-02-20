@@ -13,6 +13,7 @@ body {
   padding: 0;
   color: $text-color;
   font-family: $global-font-family;
+  font-style: normal;
   line-height: 1.5;
 
   &.overflow--hidden {
@@ -31,6 +32,7 @@ h6 {
   line-height: 1.2;
   font-family: $header-font-family;
   font-weight: bold;
+  font-style:normal;
 }
 
 h1 {
