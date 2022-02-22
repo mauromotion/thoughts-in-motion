@@ -2,6 +2,7 @@
 layout: single
 title: Now
 permalink: /now/
+
 ---
 > To replace the social media updates I keep this page inspired by [Derek Silvers](https://nownownow.com/about).
 >
