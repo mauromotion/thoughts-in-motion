@@ -38,11 +38,11 @@ permalink: /now/
 
 #### Currently playing
 
-- Not much gaming for me recently but when I do play I'm mostly into roguelikes such as The Binding of Isaac and Dead Cells.
+- Not much gaming for me recently but when I do play I'm mostly into roguelikes such as The Binding of Isaac and Dead Cells. // Elden Ring!
 
 #### Currently reading
 
  Sitting on my bedside table:
  
+- David Stubbs - Mars by 1980
 - Mark Manson - Everything is Fucked
-- Charles Mingus - Beneath The Underdog
