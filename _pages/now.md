@@ -4,7 +4,7 @@ title: Now
 permalink: /now/
 
 ---
-> To replace the social media updates I keep this page inspired by [Derek Silvers](https://nownownow.com/about).
+> To replace the social media updates I keep this page inspired by [Derek Sivers](http://sivers.org/) and the [/now page movement](https://nownownow.com/about).
 >
 > updated 17 February 2022
 
