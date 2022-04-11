@@ -6,7 +6,7 @@ date: 2022-04-11 22:00:00 +0000
 categories: Music
 ---
 
-<iframe style="border: 0; width: 350px; height: 786px;" src="https://bandcamp.com/EmbeddedPlayer/album=222624053/size=large/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="https://iliantape.bandcamp.com/album/itlp09-pool">ITLP09 - Pool by Skee Mask</a></iframe>
+<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=222624053/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://iliantape.bandcamp.com/album/itlp09-pool">ITLP09 - Pool by Skee Mask</a></iframe>
 
 ---
 
