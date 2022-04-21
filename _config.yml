@@ -39,9 +39,16 @@ author:
     - label: "Twitter"
       icon: "fab fa-twitter-square"
       url: "https://twitter.com/mauromograph"
+    - label: "Reddit"
+      icon: "fa-brands fa-reddit-square"
+      url: "https://www.reddit.com/user/mauro_mograph"
     - label: "Last.fm"
       icon: "fab fa-lastfm-square"
       url: "https://www.last.fm/user/madmonk80"
+    - label: "Discogs"
+      icon: "fa-solid fa-record-vinyl"
+      url: "https://www.discogs.com/user/theRealMadmonk"
+    
     
 include: ["_pages"]
 
