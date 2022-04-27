@@ -65,7 +65,11 @@ If you want to have a peek inside some other Mastodon servers and maybe find oth
 
 For  **Android** devices I suggest [Tusky](https://play.google.com/store/apps/details?id=com.keylesspalace.tusky&hl=en_US) and [Fedilab](https://play.google.com/store/apps/details?id=app.fedilab.android). They work great with multiple accounts as well. Tusky is more minimal and snappy, Fedilab has a lot more features (that you may need or not). I'd recommend getting the apps from [F-droid](https://www.f-droid.org/) instead of the Play Store. In any case, the apps are both great and constantly developed so considering a donation to help their development is not a bad idea at all.
 
-Unfortunately for **iOS** the alternatives are not as good as the Android apps. There is [Toot!](https://itunes.apple.com/app/toot/id1229021451?ls=1&mt=8) which costs a few bucks and it's not really the best. Otherwise there is also [Amaroq](https://itunes.apple.com/us/app/amarok-for-mastodon/id1214116200?ls=1&mt=8) which is free, at least. I usually tend to use Mastodon from Safari on iOS.
+On **iOS** I'm currently using [Toot!](https://itunes.apple.com/app/toot/id1229021451?ls=1&mt=8)  and [Mercury](https://apps.apple.com/us/app/mercury-for-mastodon/id1486749200?ls=1&mt1=8) , the first one is paid and the second free. Both has their pros and cons. There are a few more apps to try out on iOS that you can check [here](https://joinmastodon.org/apps).
+
+Sometimes I just prefer to browse Mastodon directly from Safari as well, to be fair. The mobile version of the website works great.
+
+Regarding **the official Mastodon apps** on both Android and iOS - while definitely more good looking and polished from a UX/UI  perspective than most of the other apps, the decision not to include all the different timelines (for  the sake of simplicity towards new users I guess?) makes the official  apps paradoxically the worst choice especially for newcomers, in my opinion. They're actively developing them though, so hopefully they'll change their minds and fix the issue soon.
 
 ## Tips & Tricks
 - If you're not keen of the default multicolumn interface of Mastodon you can switch to a more similar to Twitter single column view. Go to Preferences --> Appearance and then you can untick "Enable advanced web interface".
