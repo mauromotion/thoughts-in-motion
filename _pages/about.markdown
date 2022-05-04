@@ -15,9 +15,9 @@ I also have a lifelong passion for music, jazz and its round abouts in particula
 
 Along with my many interests I actually run a [Mastodon](https://joinmastodon.org/) server on [mograph.social](https://mograph.social). This is an experiment aimed at trying to build a space for motion designers, VFX artists and similar outside of the mainstream platforms like Twitter or Facebook and bring some visual excitment into the [Fediverse](https://fediverse.party/en/fediverse/).
 
-### This blog
+### This website
 
-The idea with this blog is to create a repository of a few things I discover in any of the fields I'm interested in, be it motion design, music, privacy, PKM systems (Personal Knowledge Management).
+The idea with this website is to create a repository of a few things I discover in any of the fields I'm interested in, be it motion design, music, privacy, PKM systems (Personal Knowledge Management).
 
 Also, I might use this space to post some work in progress and experiments I do with moving (or static) images.
 
