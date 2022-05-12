@@ -1,2 +1,2 @@
 # thoughts-in-motion
-This is the repo for my personal blog site. Hold and behold!
+This is the repo for my personal website/blog.
