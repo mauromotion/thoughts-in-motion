@@ -11,8 +11,8 @@ permalink: /now-archive/
 - Still living in SE London with my partner Flavia and our cat Jessy.
 
 ![The traditional Christmas photo](/assets/images/christmas_pic.jpg)
-*The traditional Christmas photo with lasagna.*
-
+<figcaption>The traditional Christmas photo with lasagna.</figcaption>
+<br>
 - Still freelancing from home since March 21st 2020.
 - I'm not actually actively looking for new clients though, I'm just working for my regulars when they need me - in the meantime I'm studying various things to improve my career. Such as...
 - Currently hard at work learning Houdini. I'm doing great progress, I don't feel like I'm a beginner anymore. Although, it's not super easy to kickstart my own projects with it (yet).

@@ -19,16 +19,16 @@ All good and dandy on this side of the pond. I've got covid in May and had a cou
 On the (recent) holidays side, we've just got back from a short 3 days stay in [Bath](https://www.historic-uk.com/HistoryMagazine/DestinationsUK/Bath/). Hotel with a SPA and all the bells and whistles - quite relaxing if you ask me.
 
 ![cucumber water](/assets/images/IMG_8086.JPG)
-*Cucumber water for customers only!!!*
-
+<figcaption>Cucumber water for customers only!!!</figcaption>
+<br>
 I had no idea what to expect from the city of Bath but it was a really nice surprise: beautiful architecture all around, very lively atmosphere, so many nice place to eat and have a drink. A touristy place? Yes, indeed. But with its very clear spirit and identity.
 
 ![beauties of Bath](/assets/images/Bath_Flavia.jpg)
 
-*Note to self: I need to see more of the UK.*
-
+<figcaption>Note to self: I need to see more of the UK.</figcaption>
+<br>
 ![mirror mirror on the wall](/assets/images/photo_2022-09-24_17-26-52.jpg)
-*Mirror mirror on the wall, who's the smoothest of them all?*
+<figcaption>Mirror mirror on the wall, who's the smoothest of them all?</figcaption>
 
 
 ### Music
