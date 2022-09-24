@@ -4,9 +4,9 @@ title: Now-Archive
 permalink: /now-archive/
 ---
 
-> This page is an archive of my old [Now page](https://blog.mauromotion.com/now/) updates. Please refer to that for more up to date information.
+> This page is an archive of my previous [Now page](https://blog.mauromotion.com/now/) updates.
 
-> updated 17 February 2022
+### Update from February 17th, 2022:
 
 - Still living in SE London with my partner Flavia and our cat Jessy.
 

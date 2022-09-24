@@ -6,43 +6,43 @@ permalink: /now/
 ---
 > To replace the social media updates I keep this page inspired by [Derek Sivers](http://sivers.org/) and the [/now page movement](https://nownownow.com/about).
 >
-> updated 17 February 2022
+> You can check the archive of my previous updates [here](https://blog.mauromotion.com/now-archive/).
 
-- Still living in SE London with my partner Flavia and our cat Jessy.
+## September 24th, 2022
 
-![The traditional Christmas photo](/assets/images/christmas_pic.jpg)
-*The traditional Christmas photo with lasagna.*
+All good and dandy on this side of the pond. I've got covid in May and had a couple of rough weeks but I've been fine since then.
 
-- Still freelancing from home since March 21st 2020.
-- I'm not actually actively looking for new clients though, I'm just working for my regulars when they need me - in the meantime I'm studying various things to improve my career. Such as...
-- Currently hard at work learning Houdini. I'm doing great progress, I don't feel like I'm a beginner anymore. Although, it's not super easy to kickstart my own projects with it (yet).
-- Quite a lot of Octane tinkering - Redshift is still my main render engine but I finally managed to learn Octane as well.
-- I took the online course "Design Bootcamp" from School of Motion to tackle once and for all my imposter syndrome. It was very intense but very much worth it.
-- Working on various ideas for personal projects to develop further.
+- I'm currently in the process of refreshing my showreel with some of my latest work and a few personal projects - my goal is to apply for a permanent position somewhere as soon as possible. A bit tired of freelancing, especially from home.
+- In the meantime I've been obsessed with [Logseq](https://logseq.com/) and I've been rebuilding my PKM system with it. So much fun! (and procrastination...)
 
-## For all the rest
-	
-- I'm dedicating way too much time into developing this blog. I think I'm addicted now.
-- I'm very much interested in [PKM](https://en.wikipedia.org/wiki/Personal_knowledge_management) (Personal Knowledge Management), productivity, [Zettelkasten method](https://en.wikipedia.org/wiki/Zettelkasten), [PARA method](https://fortelabs.co/blog/para/) (both of which I'm currently using), and the fantastic software that I'm constantly typing on for everything [Obsidian](https://obsidian.md/).
-- After a bad 2021 with injuries to both my ankle and my knee I'm finally back on track with running on a regular schedule. Actually last week I hit a personal record time on a 10K run at 54:49. Pretty good if you ask me!
+### Traveling  
+On the (recent) holidays side, we've just got back from a short 3 days stay in [Bath](https://www.historic-uk.com/HistoryMagazine/DestinationsUK/Bath/). Hotel with a SPA and all the bells and whistles - quite relaxing if you ask me.
 
-#### Currently listening
+![cucumber water](/assets/images/IMG_8086.JPG)
+*Cucumber water for customers only!!!*
 
-- Looking forward to [Desertfest London 2022](https://www.desertfest.co.uk/), I've got the tickets in 2019. Hopefully this will be the year...
-- Lots of electronic and IDM recently, mostly the classics Aphex Twin, Burial, Four Tet.
-- For all the rest have a look [here](https://www.last.fm/user/madmonk80), and [here](https://bandcamp.com/mauromotion), and [here](https://blog.mauromotion.com/categories/#music).
+I had no idea what to expect from the city of Bath but it was a really nice surprise: beautiful architecture all around, very lively atmosphere, so many nice place to eat and have a drink. A touristy place? Yes, indeed. But with its very clear spirit and identity.
 
-#### Currently watching
+![beauties of Bath](/assets/images/Bath_Flavia.jpg)
 
-- Watching for the first time The Sopranos, such a great show, I don't know why I haven't watched it before honestly. No spoilers please!
+*Note to self: I need to see more of the UK.*
 
-#### Currently playing
+![mirror mirror on the wall](/assets/images/photo_2022-09-24_17-26-52.jpg)
+*Mirror mirror on the wall, who's the smoothest of them all?*
 
-- Not much gaming for me recently but when I do play I'm mostly into roguelikes such as The Binding of Isaac and Dead Cells. // Elden Ring!
 
-#### Currently reading
+### Music
+One of my most consistent activities in the last few months has been listening to music:  
+- I had a huge deep dive into electronica this year, which I've never been into that much but now I'm loving. Mostly classics from WARP Records (Aphex Twin, Autechre, Squarepusher, etc.) but also some more ambient stuff and moody techno from Germany (Skee Mask most of all).
+- Also Brian Eno has been a staple in my playlists.
+- Jazz is always a constant of mine, recently - a lot of classics from Miles Davis to Coltrane and Wayne Shorter which they will never finish to amaze me.  
+- Some of my favourite contemporary artists have been SAULT, Kaidi Tatham, Jasmine Myra, Nala Sinephro.  
+- Overall there's SO MUCH good music coming out recently that it's very hard to keep up - but I do my best, nonetheless.
 
- Sitting on my bedside table:
- 
-- David Stubbs - Mars by 1980
-- Mark Manson - Everything is Fucked
+### Reading  
+I also got back into reading recently, since I've bought myself a [Kobo Libra 2](https://us.kobobooks.com/products/kobo-libra-2). I've always been a bit sceptic about it but I must admit it's so nice (and convenient) to read books on an e-reader.
+- I've managed to finally read *"IT" by Stephen King* this summer - I had it in my reading list since I was 12, I guess. It was all right, good all Stephen King. Yeah. let's not talk about that scene...
+- I've been also on a mission of reading some classics of the British and American literature and I discovered *William Faulkner*. A bit hard to get into, I must admit, but quite unique and rewarding (I've been reading his short stories, I'm still collecting my strengths and wits to begin one of his novels).  
+- Also *Philip K. Dick* has been taking me company with his sci-fi short stories. Some of which are from the 50's but you wouldn't say, they've aged quite well!
+
+Until the next update, which at this pace could be in the next year...
