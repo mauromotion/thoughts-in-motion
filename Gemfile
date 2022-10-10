@@ -14,6 +14,7 @@ source "https://rubygems.org"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 gem "github-pages", "~> 223", group: :jekyll_plugins
 gem "jekyll-include-cache", group: :jekyll_plugins
+gem 'jekyll-admin', group: :jekyll_plugins
 # gem "jekyll", "~> 3.9.0"
 # gem "jekyll-remote-theme"
 # gem "minimal-mistakes-jekyll"
