@@ -76,7 +76,7 @@ collections:
   now:
     output: true
     permalink: /:collection/:path/
-
+    
 defaults:
   # _now_archive
   - scope:
@@ -86,8 +86,7 @@ defaults:
       layout: single
       author_profile: false
       share: true
-
-
+      
 category_archive:
   type: liquid
   path: /categories/
