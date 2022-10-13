@@ -6,7 +6,7 @@ permalink: /now/
 ---
 > To replace the social media updates I keep this page inspired by [Derek Sivers](http://sivers.org/) and the [/now page movement](https://nownownow.com/about).
 >
-> You can check the archive of my previous updates [here](https://blog.mauromotion.com/now-archive/).
+> You can check the archive of my previous updates [here](https://blog.mauromotion.com/now_archive/).
 
 ## September 24th, 2022
 
