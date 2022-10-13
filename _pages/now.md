@@ -1,48 +1,9 @@
 ---
-layout: single
 title: Now
+layout: collection
+collection: now
 permalink: /now/
-
+author_profile: false
 ---
+
 > To replace the social media updates I keep this page inspired by [Derek Sivers](http://sivers.org/) and the [/now page movement](https://nownownow.com/about).
->
-> You can check the archive of my previous updates [here](https://blog.mauromotion.com/now_archive/).
-
-## September 24th, 2022
-
-All good and dandy on this side of the pond. I've got covid in May and had a couple of rough weeks but I've been fine since then.
-
-- I'm currently in the process of refreshing my showreel with some of my latest work and a few personal projects - my goal is to apply for a permanent position somewhere as soon as possible. A bit tired of freelancing, especially from home.
-- In the meantime I've been obsessed with [Logseq](https://logseq.com/) and I've been rebuilding my PKM system with it. So much fun! (and procrastination...)
-
-### Traveling  
-On the (recent) holidays side, we've just got back from a short 3 days stay in [Bath](https://www.historic-uk.com/HistoryMagazine/DestinationsUK/Bath/). Hotel with a SPA and all the bells and whistles - quite relaxing if you ask me.
-
-![cucumber water](/assets/images/IMG_8086.JPG)
-<figcaption>Cucumber water for customers only!!!</figcaption>
-<br>
-I had no idea what to expect from the city of Bath but it was a really nice surprise: beautiful architecture all around, very lively atmosphere, so many nice place to eat and have a drink. A touristy place? Yes, indeed. But with its very clear spirit and identity.
-
-![beauties of Bath](/assets/images/Bath_Flavia.jpg)
-
-<figcaption>Note to self: I need to see more of the UK.</figcaption>
-<br>
-![mirror mirror on the wall](/assets/images/photo_2022-09-24_17-26-52.jpg)
-<figcaption>Mirror mirror on the wall, who's the smoothest of them all?</figcaption>
-
-
-### Music
-One of my most consistent activities in the last few months has been listening to music:  
-- I had a huge deep dive into electronica this year, which I've never been into that much but now I'm loving. Mostly classics from WARP Records (Aphex Twin, Autechre, Squarepusher, etc.) but also some more ambient stuff and moody techno from Germany (Skee Mask most of all).
-- Also Brian Eno has been a staple in my playlists.
-- Jazz is always a constant of mine, recently - a lot of classics from Miles Davis to Coltrane and Wayne Shorter which they will never finish to amaze me.  
-- Some of my favourite contemporary artists have been SAULT, Kaidi Tatham, Jasmine Myra, Nala Sinephro.  
-- Overall there's SO MUCH good music coming out recently that it's very hard to keep up - but I do my best, nonetheless.
-
-### Reading  
-I also got back into reading recently, since I've bought myself a [Kobo Libra 2](https://us.kobobooks.com/products/kobo-libra-2). I've always been a bit sceptic about it but I must admit it's so nice (and convenient) to read books on an e-reader.
-- I've managed to finally read *"IT" by Stephen King* this summer - I had it in my reading list since I was 12, I guess. It was all right, good all Stephen King. Yeah. let's not talk about that scene...
-- I've been also on a mission of reading some classics of the British and American literature and I discovered *William Faulkner*. A bit hard to get into, I must admit, but quite unique and rewarding (I've been reading his short stories, I'm still collecting my strengths and wits to begin one of his novels).  
-- Also *Philip K. Dick* has been taking me company with his sci-fi short stories. Some of which are from the 50's but you wouldn't say, they've aged quite well!
-
-Until the next update, which at this pace could be in the next year...
