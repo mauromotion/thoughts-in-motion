@@ -1,8 +1,8 @@
 ---
-title: Album of the Week - October 20th, 2022
+title: "Album of the Week - October 20th, 2022"
 layout: single
 categories: Music
-date: 2022-10-20 09:54:46 +0000
+date: 2022-10-20 10:00:00 +0000
 ---
 
 ## Education & Recreation - Surprise Chef
