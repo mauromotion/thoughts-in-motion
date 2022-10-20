@@ -1,7 +1,8 @@
 ---
-title: Album of the Week - October 14th
-categories:
-- Music
+title: "Album of the Week - October 14th, 2022"
+categories: Music
+layout: single
+date: 2022-10-13 10:00:00 +0000
 ---
 
 ## Loraine James -  Building Something Beautiful For Me 
