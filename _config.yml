@@ -60,8 +60,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-
-defaults:
   # _posts
   - scope:
       path: ""
@@ -70,14 +68,6 @@ defaults:
       layout: single
       author_profile: false
       show_date: true
-
-# Collections
-collections:
-  now:
-    output: true
-    permalink: /:collection/:path/
-    
-defaults:
   # _now_archive
   - scope:
       path: ""
@@ -86,7 +76,14 @@ defaults:
       layout: single
       author_profile: false
       share: true
+      show_date: false
       
+# Collections
+collections:
+  now:
+    output: true
+    permalink: /:collection/:path/
+
 category_archive:
   type: liquid
   path: /categories/
