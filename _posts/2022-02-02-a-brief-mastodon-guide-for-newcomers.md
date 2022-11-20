@@ -17,7 +17,7 @@ Here's a few helpful things to know:
 
 If you're coming from _Twitter_ this is a brief nomenclature that might come in handy:
 
-- Toot = _Tweet_
+- Toot (R.I.P.) = _Tweet_
 - Boost = _Retweet_
 - Favourite = _Like_
 
@@ -29,30 +29,25 @@ You have 3 different timelines on _mograph.social_:
 - Local
 - Federated
 
-The **Home timeline** will show all the toots and boosts from yourself and the people you follow, weather they're on mograph.social or on any other server. Consider this your "curated" timeline, similar to your home feed on Twitter.
+The **Home timeline** will show all the posts from the people you follow, weather they're on mograph.social or on any other server. Consider this your "curated" timeline, similar to your home feed on Twitter.
 
-The **Local timeline** will show all the toots generated from the users on mograph.social. This is a good way to have a feel of the community and to join mograph-related conversations.
+The **Local timeline** will show all the posts from the people on mograph.social. This is a good way to have a feel of the community and to join mograph-related conversations.
 
-The **Federated timeline** will show ALL the toots from ALL the accounts that ALL the users on mograph.social are currently following. This is a really good tool to have a peek outside our little server and join the vast Fediverse community.
+The **Federated timeline** will show ALL the posts from ALL the accounts that ALL the users on mograph.social are currently following. A way to have a peek outside our server and join the vast Fediverse community.
 
 Of course there are also **direct messages**, and a column for all the **notifications**.
 
 ## First steps
 
 ### #introduction
-It's good netiquette in the Fediverse to post a short introduction about yourself and tag it with #introduction. If you use other hash tags in the introduction toot as well, it would be even more useful for people to find you and eventually follow you. You can also consider pinning your #introduction toot to your profile, it's a good way to extend your bio info section.
+It's good netiquette in the Fediverse (and a useful first apporach) to post a short introduction about yourself and tag it with the hashtag #introduction. If you use other hashtags in the introduction post as well, it would be even more useful for people to find you and eventually follow you. You can also consider pinning your #introduction toot to your profile, it's a good way to extend your bio info section.
 
 
 ### Create your profile
-You can add a profile picture and you can also write a short bio in your profile. There are even some custom fields where you can put any kind of informations like links to your website or blog or whatever you like, really. Please also consider specifing the **pronouns** you'd like to use for yourself. This is a nice way to help shielding transgender people against online harassment and discrimination.
+You can add a profile picture and you can also write a short bio in your profile. There are even some custom fields where you can put any kind of informations like links to your website or blog or whatever you like, really. Please also consider specifing the **pronouns** you'd like to use for yourself.
 
-
-### Follow your fellows!
-You might want to consider following the other folks on mograph.social, as they most probably are going to be motion designers like you.
-
-
-### Hash tags
-You can search Mastodon by hash tags and then you can pin the resulting feed to a new column on the interface. This way you'll be able to keep an eye on the feed and discover some more interesting people to follow, or join some conversations even on different servers.
+### Hashtags
+You can search Mastodon by hashtags and then you can pin the resulting feed to a new column on the interface. This way you'll be able to keep an eye on the feed and discover some more interesting people to follow, or join some conversations even on different servers.
 
 
 ## Useful tools
@@ -80,4 +75,3 @@ Regarding **the official Mastodon apps** on both Android and iOS - while definit
 - Try out new things.
 
 Your faithful admin [@mauro](https://mograph.social/@mauro)
-
