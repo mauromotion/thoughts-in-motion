@@ -5,6 +5,7 @@ toc: false
 date: 2022-12-01 12:00:00 +0000
 categories: Music
 ---
+It's definitely been a SAULT month, considering they released 5 albums at the same time and they're all good, it was quite predictable. This month almost no jazz, with the exception of Bill Frisell (a delightful album, but when did he made a bad one anyway?) and a re-listen of the latest Sun Ra Arkestra which is growing on me. Lots of electronica that kept me company during this cold month of studying and working at my computer most days (and nights). Some 90s nostalgia for good measure.
 
 ![lastfm Albums Chart November 2022](/assets/images/november_chart.jpg)
 
