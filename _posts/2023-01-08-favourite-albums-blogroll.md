@@ -1,12 +1,12 @@
 ---
 layout: single
-title: "Favourite Albums Infinite Blogroll"
+title: "Favourite Music Infinite Blogroll"
 toc: false
 date: 2023-01-08 15:00:00 +0000
 show_date: true
 categories: Music
 ---
-*An infinite roll of my favourite new album releases while I discover them.*
+*An infinite roll of some nice new bands/musicians and album releases while I discover them.*
 
 ## November 20th 2022
 
@@ -41,3 +41,28 @@ A warm embrace in this cold weather.
 ### Makaya McCraven - In These Times
 
 <iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=1246560818/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://intlanthem.bandcamp.com/album/in-these-times">In These Times by Makaya McCraven</a></iframe>
+
+## February 7th 2022
+
+### A Place To Bury Strangers
+
+I saw [A Place To Bury Strangers](https://www.aplacetoburystrangers.com/) live in 2017, they were opening for The Black Angels in Brixton.
+I remember I was completely blown away, such an energetic performance. Their [new album](https://aplacetoburystrangers.bandcamp.com/album/see-through-you) has come out a few days ago and it's probably one of their best, at least to my taste.
+But today on YT, while watching their latest music videos, I found another great KEXP live session from 2018. 
+
+Mesmerized once again.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NVp-DAXnlTc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## January 27th 2022
+
+### Combo Chimbita
+
+Today I was listening to the latest [Bandcamp Weekly](http://bandcamp.com/?show=520&play=1) episode and there was an interview with this band of Colombian New Yorkers called "Combo Chimbita". Their latest album [is out tomorrow](https://combochimbita.bandcamp.com/album/ire) and it was today's album of the day on Bandcamp. Their music was interesting, not usually my genre so I was a bit cautious to be honest.
+Then I've searched for "Combo Chimbita live" on YouTube and I found this KEXP live session that absolutely blown me away!
+
+Her voice and presence are stunning, from another space and time really. Synths, electric guitar that ranges from surf rock sounds to open distortion, South American rhythms. A powerful mix of modern and old that shines in the live performance.
+
+Brilliant.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ISaYrZHfoS0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Audio equipment - Headphones // From DT770 Pro to Hifiman Sundara - My experience"
+title: "Headphones comparison - From DT770 Pro to Hifiman Sundara"
 toc: false
 date: 2022-04-21 12:00:00 +0000
 categories: Music

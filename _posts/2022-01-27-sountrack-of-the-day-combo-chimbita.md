@@ -3,6 +3,7 @@ layout: single
 title:  "27-01-2022 // Soundtrack of the Day // Combo Chimbita"
 date:   2022-01-27 15:13:50 +0000
 categories: Music
+published: false
 ---
 Today I was listening to the latest [Bandcamp Weekly](http://bandcamp.com/?show=520&play=1) episode and there was an interview with this band of Colombian New Yorkers called "Combo Chimbita". Their latest album [is out tomorrow](https://combochimbita.bandcamp.com/album/ire) and it was today's album of the day on Bandcamp. Their music was interesting, not usually my genre so I was a bit cautious to be honest.
 Then I've searched for "Combo Chimbita live" on YouTube and I found this KEXP live session that absolutely blown me away!

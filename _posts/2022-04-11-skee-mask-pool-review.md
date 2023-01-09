@@ -9,6 +9,7 @@ categories: Music
 <iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=222624053/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://iliantape.bandcamp.com/album/itlp09-pool">ITLP09 - Pool by Skee Mask</a></iframe>
 
 ---
+*An experiment in music "review". I typed down my impressions of the songs while listening to them in a very free way, and some short final thoughts on the overall album.*
 
 # Track by Track
 
