@@ -2,11 +2,20 @@
 layout: single
 title: "Favourite Music Infinite Blogroll"
 toc: false
-date: 2023-01-08 15:00:00 +0000
+date: 2023-01-30 15:00:00 +0000
 show_date: true
 categories: Music
 ---
 *An infinite roll of some nice new bands/musicians and album releases while I discover them.*
+## January 30th 2023
+
+### Glyders - Maria's Hunt
+
+A minimalist rock&roll album that still grooves hard thanks to its warm fuzzy tones and its swinging rhythm section. 
+
+First gem of this new year discovered.
+
+<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=855360325/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://glyders.bandcamp.com/album/marias-hunt">Maria&#39;s Hunt by Glyders</a></iframe>
 
 ## November 20th 2022
 
