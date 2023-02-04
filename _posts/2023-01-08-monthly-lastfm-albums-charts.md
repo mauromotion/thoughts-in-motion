@@ -2,17 +2,49 @@
 layout: single
 title: "Lastfm Monthly Albums Charts"
 toc: false
-date: 2023-01-08 15:00:00 +0000
+date: 2023-02-03 15:00:00 +0000
 show_date: true
 categories: Music
 ---
 *Updates on my monthly listens from Lastfm.*
 
+## January 2023
+
+This month as well has been hectic music-wise. Turns out when I'm studying I have less mental energy to porper listening to music. When I code it's just a background. Still some blasts from teh past nonetheless. And very few new albums. A slow starting year indeed.
+
+![lastfm Albums Chart January 2023](/assets/images/2023_January_lastfm_chart.jpg)
+
+1\. Hudson Mohawke - *Cry Sugar*<br>
+2\. Kamelot - *Karma*<br>
+3\. Louie Vega - *Expansions In The NYC*<br>
+4\. brainwaltzera - *ITSAME*<br>
+5\. 99LETTERS - *Kaibou Zukan*<br>
+6\. Skee Mask - *Pool*<br>
+7\. Ezra Collective - *Where I'm Meant To Be*<br>
+8\. Rachika Nayar - *Heaven Come Crashing*<br>
+9\. Fleet Foxes - *Fleet Foxes*<br>
+10\. Heilung - *Drif*<br>
+11\. Glyders - *Maria's Hunt*<br>
+12\. Shores of Null - *The Loss of Beauty*<br>
+13\. Various Artists - *Artificial Intelligence*<br>
+14\. Sault - *11*<br>
+15\. Juni Habel - *Carvings*<br>
+16\. Miles Davis - *Someday My Prince Will Come*<br>
+17\. Pole - *Tempus*<br>
+18\. Shit & Shine - *New Confusion*<br>
+19\. Autechre - *Confield*<br>
+20\. Hania Rani - *Esja*<br>
+21\. Rich Ruth - *I Survived, It's Over*<br>
+22\. Alison Cotton - *The Portrait You Painted of Me*<br>
+23\. Kaidi Tatham - *Don't Rush The Process*<br>
+24\. Otus - *Torch*<br>
+25\. Stratovarius - *Survive*<br>
+
 ## December 2022
 
 December has been a weird one as I've been traveling and away from my desktop (and music gear). Lots of throw backs into power metal, 90s music, mixed with relistens of this year's favourites. To a 2023 full of good music.
 
-![lastfm Albums Chart November 2022](/assets/images/december_chart.jpg)
+![lastfm Albums Chart December 2022](/assets/images/december_chart.jpg)
 
 1\. SAULT  - *11* <br>
 2\. Various Artists - *Artificial Intelligence* <br>
