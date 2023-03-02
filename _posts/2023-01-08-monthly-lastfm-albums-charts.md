@@ -2,17 +2,50 @@
 layout: single
 title: "Lastfm Monthly Albums Charts"
 toc: false
-date: 2023-02-03 15:00:00 +0000
+date: 2023-03-02 14:00:00 +0000
 show_date: true
 categories: Music
 ---
 *Updates on my monthly listens from Lastfm.*
 
+## February 2023
+
+It was a videogame 8-bit soundtracks kind of month. And also The month I discovered *Woods of Ypress* and got myself into a doom hole. Fair enough. Let's move on with the Spring, please.
+
+![lastfm Albums Chart February 2023](/assets/images/2023_02_Feb_lastfm_chart.jpg)
+
+
+1\. Ben Prunty - *Into the Breach Soundtrack*<br>
+2\. Woods of Ypress - *Woods 4: The Green Album*<br>
+3\. Ben Prunty - *FTL Soundtrack*<br>
+4\. Shores of Null - *Quiescence*<br>
+5\. Autechre - *Tri Repetae*<br>
+6\. Boards of Canada - *Tomorrow's Harvest*<br>
+7\. Yo La Tengo - *This Stupid World*<br>
+8\. Chris Christodolou - *Risk of Rain Soundtrack*<br>
+9\. Alfa Mist - *Bring Backs*<br>
+10\. Faten Kanaan - *Afterpoem*<br>
+11\. Kelela - *Raven*<br>
+12\. Burial - *Untrue*<br>
+13\. Pigs pigs pigs pigs pigs pigs pigs - *Land of Sleeper*<br>
+14\. brainwaltzera - *ITSAME*<br>
+15\. 65daysofstatic - *No Man's Sky: Music for an Infinite Universe*<br>
+16\. Marco Zenker - *Channel Balance*<br>
+17\. Shores of Null - *Black Drapes For Toorrow*<br>
+18\. Aphex Twin - *Selected Ambient Works 85-92*<br>
+19\. Judas Priest - *Painkiller*<br>
+20\. Shit and Shine - *New Confusion*<br>
+21\. Home - *Odyssey*<br>
+22\. Opeth - *Damnation*<br>
+23\. Alice in Chains - *Jar of Flies*<br>
+24\. Yazmin Lacey - *Voice Notes*<br>
+25\. Cleo Sol - *Mother*<br>
+
 ## January 2023
 
 This month as well has been hectic music-wise. Turns out when I'm studying I have less mental energy to porper listening to music. When I code it's just a background. Still some blasts from teh past nonetheless. And very few new albums. A slow starting year indeed.
 
-![lastfm Albums Chart January 2023](/assets/images/2023_January_lastfm_chart.jpg)
+![lastfm Albums Chart January 2023](/assets/images/2023_01_Jan_lastfm_chart.jpg)
 
 1\. Hudson Mohawke - *Cry Sugar*<br>
 2\. Kamelot - *Karma*<br>
