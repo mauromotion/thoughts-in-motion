@@ -2,15 +2,58 @@
 layout: single
 title: "Lastfm Monthly Albums Charts"
 toc: false
-date: 2023-03-02 14:00:00 +0000
+date: 2023-04-01 01:00:00 +0000
 show_date: true
 categories: Music
 ---
 *Updates on my monthly listens from Lastfm.*
 
+## March 2023
+
+This month again went to show off my usual mix of jazz/metal/electronic/videogames/random stuff. AKA I'm not sure where to go but I go there with style. Also, the spring still looks like a distant mirage over here.
+
+![lastfm Albums Chart March 2023](/assets/images/2023_03_Mar_lastfm_chart.jpg)
+
+1\. Boards of Canada - *Tomorrow's Harvest*<br>
+2\. Megadeth - *Countdown to Extinction*<br>
+3\. Boards of Canada - *Music Has the Right to Children*<br>
+4\. 65daysofstatic - *No Man's Sky: Music for an Infinite Universe*<br>
+5\. Haken - *Fauna*<br>
+6\. Ben Prunty - *Transmission from a Hidden World*<br>
+7\. Alfa Mist - *Bring Backs*<br>
+8\. Ben Prunty - *FTL*<br>
+9\. Gilroy Mere - *Gilden Gate*<br>
+10\. At the Gates - *Slaughter of the Soul*<br>
+11\. Bonobo - *Fragments*<br>
+12\. Cafe Music BGM channel - *Coffee Music ~Studio Ghibli Jazz & Bossa*<br>
+13\. Ezra Collective - *Where I'm Meant to Be*<br>
+14\. Ben Prunty - *Into the Breach Soundtrack*<br>
+15\. Leon Vynehall - *Nothing is Still*<br>
+16\. Aphex Twin - *Selected Ambient Works 85-92*<br>
+17\. Bill Evans - *Undercurrent*<br>
+18\. Bill Evans Trio - *Sunday At The Village Vanguard*<br>
+19\. Herbie Hancock - *Empyrean Isles*<br>
+20\. In Flames - *Foregone*<br>
+21\. Joe Zawinul - *Zawinul*<br>
+22\. Luke Vibert - *Machine Funk*<br>
+23\. Makaya McCraven - *In These Times*<br>
+24\. Shabaka - *Afrikan Culture*<br>
+25\. Wayne Shorter - *Speak No Evil*<br>
+26\. Aerosmith - *Get a Grip*<br>
+27\. Bill Evans Trio - *Trio '65*<br>
+28\. Marlene Ribeiro - *Toquei No Sol*<br>
+29\. Transgressive - *Extreme Transgression*<br>
+30\. Duke Ellington - *Money Jungle*<br>
+31\. Miles Davis - *E.S.P.*<br>
+32\. Overmono - *Cash Romantic*<br>
+33\. Burial - *Untrue*<br>
+34\. The Black Angels - *Passover*<br>
+35\. Wayne Shorter - *Juju*<br>
+36\. Bill Evans Trio - *Waltz for Debby*<br>
+
 ## February 2023
 
-It was a videogame 8-bit soundtracks kind of month. And also The month I discovered *Woods of Ypress* and got myself into a doom hole. Fair enough. Let's move on with the Spring, please.
+It was a videogame 8-bit soundtracks kind of month. And also the month I discovered *Woods of Ypress* and got myself into a doom hole. Fair enough. Let's move on with the Spring, please.
 
 ![lastfm Albums Chart February 2023](/assets/images/2023_02_Feb_lastfm_chart.jpg)
 
