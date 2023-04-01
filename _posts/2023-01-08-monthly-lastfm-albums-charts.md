@@ -2,7 +2,7 @@
 layout: single
 title: "Lastfm Monthly Albums Charts"
 toc: false
-date: 2023-04-01 01:00:00 +0000
+date: 2023-04-01 00:00:00 +0000
 show_date: true
 categories: Music
 ---
