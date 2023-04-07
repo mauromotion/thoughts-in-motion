@@ -7,6 +7,15 @@ show_date: true
 categories: Music
 ---
 *An infinite roll of some nice new bands/musicians and album releases while I discover them.*
+
+## April 1st 2023
+
+### James Holden - Imagine This Is A High Dimensional Space Of All Possibilities
+
+A transcendental electronic journey beyond any genre classification. A freak lucid dream of positive only vibes. Gorgeous.
+
+<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=3450412004/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://jamesholden.bandcamp.com/album/imagine-this-is-a-high-dimensional-space-of-all-possibilities">Imagine This Is A High Dimensional Space Of All Possibilities by James Holden</a></iframe>
+
 ## January 30th 2023
 
 ### Glyders - Maria's Hunt
