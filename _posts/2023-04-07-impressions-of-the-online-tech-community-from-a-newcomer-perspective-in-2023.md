@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Impressions of the online tech community from a newcomer perspective in 2023"
+title: "Impressions of the online tech community from a newcomer's perspective in 2023"
 toc: false
 date: 2023-04-07 14:00:00 +0000
 categories: Technology
