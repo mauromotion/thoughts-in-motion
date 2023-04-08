@@ -45,6 +45,9 @@ author:
     - label: "Discogs"
       icon: "fas fa-record-vinyl"
       url: "https://www.discogs.com/user/theRealMadmonk"
+    - label: "Bandcamp"
+      icon: "fa-brands fa-bandcamp"
+      url: "https://bandcamp.com/mmmotion"
     
     
 include: ["_pages"]
