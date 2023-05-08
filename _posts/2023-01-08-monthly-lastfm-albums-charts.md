@@ -2,11 +2,43 @@
 layout: single
 title: "Lastfm Monthly Albums Charts"
 toc: false
-date: 2023-04-01 00:00:00 +0000
+date: 2023-05-08 10:00:00 +0000
 show_date: true
 categories: Music
 ---
-*Updates on my monthly listens from Lastfm.*
+*Updates on my monthly plays from Lastfm.*
+
+## April 2023
+
+A mix of old nostalgia stuff and some new spins in April as well. The new Metallica is awful as usual.
+
+![lastfm Albums Chart April 2023](/assets/images/2023_04_Apr_lastfm_chart.jpg)
+
+1\. James Holden - *Imagine This Is A High Dimensional Space of All Possibilities*<br>
+2\. Green Day - *Nimrod*<br>
+3\. Brandee Younger - *Brand New Life*<br>
+4\. µ-Ziq - *1977*<br>
+5\. Alfa Mist - *Variables*<br>
+6\. GoGo Penguin - *Everything Is Going to Be OK*<br>
+7\. Miles Davis - *Birth of the Cool*<br>
+8\. Sunrot - *The Unfailing Rope*<br>
+9\. Mastodon - *Leviathan*<br>
+10\. Nicole Yun - *Matter*<br>
+11\. Ital Tek - *Timeproof*<br>
+12\. Miles Davis - *Relaxin' With The Miles Davis Quintet*<br>
+13\. Aphex Twin - *Selected Ambient Works 85-92*<br>
+14\. mejiwahn - *Beanna*<br>
+15\. Miles Davis Quintet - *Workin' With The Miles Davis Quintet*<br>
+16\. Boards of Canada - *Music Has the Right to Children*<br>
+17\. Kaidi Tatham - *An Insight To ALl Minds*<br>
+18\. Earth - *Angels of Darkness, Demons of Light II*<br>
+19\. Green Day - *Dookie*<br>
+20\. Guns N' Roses - *Use Your Illusion II*<br>
+21\. Metallica - *72 Seasons*<br>
+22\. Shabaka - *Afrikan Culture*<br>
+23\. 65daysofstatic - *Available Data*<br>
+24\. Miles Davis - *Milestones*<br>
+25\. 65daysofstatic - *Mimik*<br>
 
 ## March 2023
 
