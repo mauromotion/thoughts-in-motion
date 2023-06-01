@@ -8,6 +8,49 @@ categories: Music
 ---
 *Updates on my monthly plays from Lastfm.*
 
+## May 2023
+
+Finally the sun is here. Time for some Megadeth I guess. And jazz, lots of jazz.
+
+![lastfm Albums Chart May 2023](/assets/images/2023_05_May_lastfm_chart.jpg)
+
+1\. Alfa Mist - *Variables*<br>
+2\. The Gaslamp Killer - *Legna*<br>
+3\. Ben Prunty - *Into The Breach Soundtrack*<br>
+4\. James Ellis Ford - *The Hum*<br>
+5\. Megadeth - *Rust in Peace*<br>
+6\. Overmono - *Good Lies*<br>
+7\. Brian Eno - *Film Music 1976-2020*<br>
+8\. James Holden - *Imagine This Is A High Dimensional Space of All Possibilities*<br>
+9\. きゃべつ - *Bye Bye*<br>
+10\. Cleo Sol - *Mother*<br>
+11\. Combo Chimbita - *IRE*<br>
+12\. Kaidi Tatham - *Don't Rush The Process*<br>
+13\. Bokani Dyer - *Radio Sechaba*<br>
+14\. Brian Eno - *Before and After Science*<br>
+15\. Megadeth - *Countdown To Exxtinction: Live*<br>
+16\. Alfa Mist - *Bring Backs*<br>
+17\. Daft Punk - *Random Access Memories*<br>
+18\. Sadist - *Firescorched*<br>
+19\. Sun Ra Arkestra - *Sun Ra & His Intergalactic Solar Arkestra: Space Is The Place (Music From The Original Soundtrack)*<br>
+20\. Chet Baker - *Chet*<br>
+21\. Craven Faults - *Standers*<br>
+22\. Miles Davis Quintet - *Workin' With The Miles Davis Quintet*<br>
+23\. SAULT - *11*<br>
+24\. Squarepusher - *Be Up a Hello*<br>
+25\. Jaubi - *Nafs at Peace*<br>
+26\. Megadeth - *Rude Awakening*<br>
+27\. Modern Cosmology - *What Will You Grow Now?*<br>
+28\. Thelonious Monk - *Thelonious Monk with John Coltrane*<br>
+29\. Bill Evans - *Undercurrent*<br>
+30\. Dodheimsgard - *Black Medium Current*<br>
+31\. Misha Panfilov - *The Sea Will Outlive Us All*<br>
+32\. Overmono - *Cash Romantic*<br>
+33\. Salami Rose Joe Louis - *Akousmatikous*<br>
+34\. EABS / Jaubi - *In Search of a Better Tomorrow*<br>
+35\. Miles Davis - *Miles Smiles*<br>
+36\. Mother Iguana - *Eyeball Planet*<br>
+
 ## April 2023
 
 A mix of old nostalgia stuff and some new spins in April as well. The new Metallica is awful as usual.
