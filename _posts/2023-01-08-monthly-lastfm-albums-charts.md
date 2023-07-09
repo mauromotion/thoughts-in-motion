@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Lastfm Monthly Albums Charts"
-toc: false
+toc: true
 date: 2023-06-09 10:00:00 +0000
 show_date: true
 categories: Music
@@ -12,7 +12,7 @@ categories: Music
 
 Half of this month of June was spent in Italy on holiday, I mostly listened to music saved locally on my iPhone, so not much new stuff.
 
-![lastfm Albums Chart June 2024](/assets/images/2023_06_June_lastfm_chart.jpg)
+![lastfm Albums Chart June 2023](/assets/images/2023_06_June_lastfm_chart.jpg)
 
 2\. The Human Abstract - *Nocturne*<br>
 3\. Alfa Mist - *Variables*<br>
