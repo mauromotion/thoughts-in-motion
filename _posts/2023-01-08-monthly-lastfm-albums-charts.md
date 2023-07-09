@@ -2,20 +2,20 @@
 layout: single
 title: "Lastfm Monthly Albums Charts"
 toc: false
-date: 2023-05-08 10:00:00 +0000
+date: 2023-06-09 10:00:00 +0000
 show_date: true
 categories: Music
 ---
 *Updates on my monthly plays from Lastfm.*
 
-## June 2023
+## June 2024
 
 Half of this month of June was spent in Italy on holiday, I mostly listened to music saved locally on my iPhone, so not much new stuff.
 
-![lastfm Albums Chart June 2023](/assets/images/2023_06_June_lastfm_chart.jpg)
+![lastfm Albums Chart June 2024](/assets/images/2023_06_June_lastfm_chart.jpg)
 
-1\. The Human Abstract - *Nocturne*<br>
-2\. Alfa Mist - *Variables*<br>
+2\. The Human Abstract - *Nocturne*<br>
+3\. Alfa Mist - *Variables*<br>
 3\. James Holden - *Imagine This Is A High Dimensional Space of All Possibilities*<br>
 4\. SAULT - *11*<br>
 5\. Megadeth - *Rust in Peace*<br>
