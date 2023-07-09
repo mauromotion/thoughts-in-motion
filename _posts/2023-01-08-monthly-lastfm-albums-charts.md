@@ -8,6 +8,39 @@ categories: Music
 ---
 *Updates on my monthly plays from Lastfm.*
 
+## June 2023
+
+Half of this month of June was spent in Italy on holiday, I mostly listened to music saved locally on my iPhone, so not much new stuff.
+
+![lastfm Albums Chart June 2023](/assets/images/2023_06_June_lastfm_chart.jpg)
+
+1\. The Human Abstract - *Nocturne*<br>
+2\. Alfa Mist - *Variables*<br>
+3\. James Holden - *Imagine This Is A High Dimensional Space of All Possibilities*<br>
+4\. SAULT - *11*<br>
+5\. Megadeth - *Rust in Peace*<br>
+6\. Megadeth - *Countdown to Exxtinction*<br>
+7\. Queens of the Stone Age - *In Times New Roman...*<br>
+8\. Bill Evans Trio - *Waltz for Debby*<br>
+9\. Jimmy "Duck" Holmes - *Cypress Grove*<br>
+10\. Jasmine Myra - *Horizons*<br>
+11\. Jaubi - *Nafs at Peace*<br>
+12\. Ozzy Osbourne - *Tribute*<br>
+13\. Aphex Twin - *Selected Ambient Works 85-92*<br>
+14\. Alfa Mist - *Bring Backs*<br>
+15\. James Ellis Ford - *The Hum*<br>
+16\. Squid - *O Monolith*<br>
+17\. Immortal - *War Against All*<br>
+18\. Miles Davis Quintet - *Workin' With The Miles Davis Quintet*<br>
+19\. Aphex Twin - *Syro*<br>
+20\. brainwaltzera - *ITSAME*<br>
+21\. Tony Allen - *Tony Allen JID018*<br>
+22\. African Head Charge - *A Trip To Bolgatanga*<br>
+23\. Bill Evans Trio - *Sunday At The Village Vanguard*<br>
+24\. Caterina Barbieri - *Ecstatic Computation*<br>
+25\. 36 - *The Lower Lights*<br>
+
+
 ## May 2023
 
 Finally the sun is here. Time for some Megadeth I guess. And jazz, lots of jazz.
