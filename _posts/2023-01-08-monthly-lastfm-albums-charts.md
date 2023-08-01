@@ -2,20 +2,52 @@
 layout: single
 title: "Lastfm Monthly Albums Charts"
 toc: true
-date: 2023-06-09 10:00:00 +0000
+date: 2023-08-01 10:00:00 +0000
 show_date: true
 categories: Music
 ---
 *Updates on my monthly plays from Lastfm.*
 
-## June 2024
+## July 2023
+
+A somewhat slow and fast month at the same time for me, not my brightest moment. Miles helped me a lot through it, though. And quite a few new jazz releases. Most of all, one of my favourite artists in recent times just released another good record, Kaidi Tatham - The Only Way. My summer's banger without a doubt.
+
+![lastfm Albums Chart July 2023](/assets/images/2023_07_July_lastfm_chart.jpg)
+
+1\. Kaidi Tatham - *The Only Way*<br>
+2\. Alfa Mist - *Variables*<br>
+3\. Miles Davis - *Birth of the Cool*<br>
+4\. Ricardo Dias Gomes - *Muito Sol*<br>
+5\. Meshell Ndegeocello - *The Omnichord Real Book*<br>
+6\. Bill Evans Trio - *Waltz for Debby*<br>
+7\. Nubya Garcia - *Source*<br>
+8\. Pat Metheny - *Dream Box*<br>
+9\. Tony Allen - *Tony Allen JID018*<br>
+10\. Miles Davis - *Sorcerer*<br>
+11\. Orrin Evans - *The Red Door*<br>
+12\. Overmono - *Good Lies*<br>
+13\. James Holden - *Imagine This Is A High Dimensional Space of All Possibilities*<br>
+14\. Kaidi Tatham - *Don't Rush the Process*<br>
+15\. Kode9 - *Escapology*<br>
+16\. Miles Davis Quintet - *Workin' With The Miles Davis Quintet*<br>
+17\. The Human Abstract - *Nocturne*<br>
+18\. James Ellis Ford - *The Hum*<br>
+19\. Bill Evans Trio - *On a Friday Evening*<br>
+20\. Yussef Kamal - *Black Focus*<br>
+21\. Bill Evans Trio - *Portrait in Jazz*<br>
+22\. Gilroy Mere - *Gilden Gate*<br>
+23\.  Nina Simone - *You've Got to Learn*<br>
+24\. Speakers Corner Quartet - *Further Out Than The Edge*<br>
+25\. Miles Davis - *Miles Smiles*<br>
+
+## June 2023
 
 Half of this month of June was spent in Italy on holiday, I mostly listened to music saved locally on my iPhone, so not much new stuff.
 
 ![lastfm Albums Chart June 2023](/assets/images/2023_06_June_lastfm_chart.jpg)
 
-2\. The Human Abstract - *Nocturne*<br>
-3\. Alfa Mist - *Variables*<br>
+1\. The Human Abstract - *Nocturne*<br>
+2\. Alfa Mist - *Variables*<br>
 3\. James Holden - *Imagine This Is A High Dimensional Space of All Possibilities*<br>
 4\. SAULT - *11*<br>
 5\. Megadeth - *Rust in Peace*<br>
