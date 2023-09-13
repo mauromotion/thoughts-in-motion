@@ -2,11 +2,43 @@
 layout: single
 title: "Lastfm Monthly Albums Charts"
 toc: true
-date: 2023-08-01 10:00:00 +0000
+date: 2023-09-13 10:00:00 +0000
 show_date: true
 categories: Music
 ---
 *Updates on my monthly plays from Lastfm.*
+
+## August 2023
+
+A month of hot weather, lots of programming, yelling at the screen and classic hard bop jazz. What a ride. Glad the Autumn is coming, my favourite season.
+
+![lastfm Albums Chart August 2023](/assets/images/2023_08_Aug_lastfm_chart.jpg)
+
+1\. Miles Davis - *Ascenseur Pour L'échafaud*<br>
+2\. Mort Garson - *Journey to the Moon and Beyond*<br>
+3\. Nina Simone - *I Put a Spell on You*<br>
+4\. Kaidi Tatham - *The Only Way*<br>
+5\. Neil Young - *Chrome Dreams*<br>
+6\. Alfa Mist - *Variables*<br>
+7\. Bill Frisell - *Four*<br>
+8\. Brandee Younger - *Brand New Life*<br>
+9\. Wayne Shorter - *JuJu*<br>
+10\. Django Reinhardt - *Retrospective 1934-1953*<br>
+11\. Jaime Branch - *Fly or Die Fly or Die Fly or Die ((world war))*<br>
+12\. Aerosmith - *Greatest Hits*<br>
+13\. Miles Davis - *Tutu*<br>
+14\. Nala Sinephro - *SPACE 1.8*<br>
+15\. Nina Simone - *Pastel Blues*<br>
+16\. Wayne Shorter - *Adam's Apple*<br>
+17\. Wayne Shorter - *Schizophrenia*<br>
+18\. Bill Brewster - *Late Night Tales Presents: After Dark - Vespertine*<br>
+19\. Duke Ellington - *Money Jungle*<br>
+20\. Bonnacons of Doom - *Bonnacons of Doom*<br>
+21\. John Coltrane - *The Avant-Garde*<br>
+22\. Miles Davis - *Wlakin'*<br>
+23\. John Coltrane - *Olé Coltrane*<br>
+24\. Wayne Shorter - *The All Seeing Eye*<br>
+25\. Megadeth - *Rust in Peace*<br>
 
 ## July 2023
 
