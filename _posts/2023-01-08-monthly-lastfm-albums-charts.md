@@ -1,11 +1,14 @@
 ---
 layout: single
-title: "Lastfm Monthly Albums Charts"
+title: "Lastfm Albums Charts - August 2022, August 2023"
 toc: true
-date: 2023-09-13 10:00:00 +0000
+date: 2023-09-29 10:00:00 +0000
 show_date: true
 categories: Music
 ---
+As all good things must come to an end I decided to stop posting my album charts here, it's been a nice ride though!
+<br>
+<br>
 *Updates on my monthly plays from Lastfm.*
 
 ## August 2023
