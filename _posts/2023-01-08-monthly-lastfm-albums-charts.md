@@ -2,7 +2,7 @@
 layout: single
 title: "Lastfm Albums Charts - August 2022, August 2023"
 toc: true
-date: 2023-09-29 10:00:00 +0000
+date: 2023-09-01 10:00:00 +0000
 show_date: true
 categories: Music
 ---
