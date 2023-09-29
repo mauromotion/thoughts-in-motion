@@ -3,7 +3,7 @@ layout: single
 title: "Setting up VimWiki in Neovim"
 toc:  true
 date: 2023-09-29 10:00:00 +0000
-categories: PKM, vim
+categories: PKM vim
 ---
 ## To Logseq or not to Logseq
 In recent years I've been trying many different solutions for my note taking needs. The app that I've been using the most has been [Logseq](https://logseq.com/), which I still use and like, but has some kinks and pain points that are not being actively addressed by the developing team recently: 
