@@ -147,15 +147,17 @@ Here's a table of shortcuts for VimWiki commands and a few more to deal with the
 |-------------------------|-----------------------------------------------|
 | \<leader> ww            | Open VimWiki                                  |
 | \<leader> wi            | Open VimWikiDiary                             |
-| \<leader> w <leader> w  | Open Today                                    |
-| \<leader> w <leader> i  | generate links to Diary pages                 |
+| \<leader> w \<leader> i | Generate day's links in the  Diary index page |
+| \<leader> w \<leader> w | Open Today                                    |
+| \<leader> w \<leader> y | Open Yesterday                                |
+| \<leader> w \<leader> m | Open Tomorrow                                 |
 | \<leader> fv            | Telescope: search VimWiki's notes titles      |
 | \<leader> fw            | Telescope: live grep inside VimWiki directory |
 | ----------------------- | -------------------------------------         |
 | "n", zg                 | Add words to the spell checker                |
 | "n", ]s - [s            | Jump to the next misspelled word              |
 | "n", z=                 | Gives suggestions for correct words           |
-| "i", <c-x> s            | Gives a list with suggestions                 |
+| "i", \<c-x> s           | Gives a list with suggestions                 |
 
 <br>
 That's all folks!
