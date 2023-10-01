@@ -56,10 +56,50 @@ vim.g.vimwiki_syntax_plugins = {
 	},
 }
 ```
+To make so that the settings are loaded properly by Neovim, at the start of the plugin, we can make use of the `init` option in lazy.nvim. Here's my `vimwiki.lua`:
+
+```lua
+return {
+	"vimwiki/vimwiki",
+	init = function()
+		-- Default directory, syntax and file type,
+		-- symbols for spaces, auto re-index tags db
+		vim.g.vimwiki_list = {
+			{
+				path = "~/Notes/VimWiki",
+				syntax = "markdown",
+				ext = ".md",
+				links_space_char = "_",
+				auto_tags = 1,
+			},
+		}
+
+		-- Disable header levels keybindings so oil.nvim will work
+		vim.g.vimwiki_key_mappings = {
+			headers = 0,
+		}
+
+		-- Syntax highlighting for code blocks
+		vim.g.vimwiki_syntax_plugins = {
+			codeblock = {
+				["```lua"] = { parser = "lua" },
+				["```python"] = { parser = "python" },
+				["```javascript"] = { parser = "javascript" },
+				["```bash"] = { parser = "bash" },
+				["```html"] = { parser = "html" },
+				["```css"] = { parser = "css" },
+				["```c"] = { parser = "c" },
+			},
+		}
+	end,
+}
+```
+After figuring out the init section of lazy.nvim the previous workaround is meaningless.
+
 ### A pesky code snippet
-Most important of all, I had to find where exactly to put this code in my Neovim config, because for some VimWiki quirks already not comletely clear to me, it won't work at all if I put them in my `settings.lua` file, as I'd like to.
+~~Most important of all, I had to find where exactly to put this code in my Neovim config, because for some VimWiki quirks already not completely clear to me, it won't work at all if I put them in my `settings.lua` file, as I'd like to.
 <br>
-As of now, my modular Neovim configuration works like this:
+As of now, my modular Neovim configuration works like this:~~
 <br>
 ```
 init.lua----
@@ -82,7 +122,7 @@ plugins.lua
     utilities/
 ```
 <br>
-I had to put the VimWiki config files right after calling LazyVim to load my plugins, in the `init.lua` file that loads all the plugins modules, otherwise Neovim won't read it at all.
+~~I had to put the VimWiki config files right after calling LazyVim to load my plugins, in the `init.lua` file that loads all the plugins modules, otherwise Neovim won't read it at all.~~
 
 ## Markdown it all
 I started playing around with VimWiki while keeping its original file format and syntax, but honestly it feels quite wasteful to learn and use yet another syntax that I will only ever use for VimWiki and nothing else. Writing notes in markdown is much better, it's kind of a standard nowadays, I already use it everywhere, and also it will come in handy in case I want to translate some notes into HTML, since with markdown the browser can do it for me. No need for any extra steps, post-processing or plugins whatsoever.
