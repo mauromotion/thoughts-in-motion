@@ -12,7 +12,7 @@ After a few first months into my journey to become a developer and change my car
 
 [CS50's Introduction to Computer Science](https://pll.harvard.edu/course/cs50-introduction-computer-science), more specifically, is one of Harvard University's courses with the most students' enrolled. Apparently, in the actual physical world of Harvard, a lot of students take it as one of their first courses in their first year of university, independently from their field of study.
 
-So it happens that the course has been developed in an very well structured online form as well, and it is free. It's divided into 11 weeks with 11 individual lectures, 11 labs and 11 problem sets, one at the end of each week, and a final project.
+So it happens that the course has been developed in an very well structured online form as well, and it is free. It's divided into 11 weeks with 11 individual lectures, 9 labs and 10 problem sets, one at the end of each week, and a final project.
 The lectures themselves are incredible. Professor David Malan is a force of nature: passionate, great communicator, great presence on stage, kind but scientifically accurate. There's a lot of information thrown at you, but rarely overwhelming.
 
 What a journey. Overall (not considering various life and work detours in between) it took me a little over three months to finish it, but apparently I'm now officially into the 1% of people that actually started and finished the online course.
