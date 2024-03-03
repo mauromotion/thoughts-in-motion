@@ -14,6 +14,7 @@ Let's get started with some fresh new music.
 - [Nora Jones - Staring at the Wall](https://www.youtube.com/watch?v=LTptGqn53VE)
 - [Khruangbin - May Ninth](https://www.youtube.com/watch?v=sTcHbELHYCk)
 - [Squarepusher - Wendorlan](https://youtu.be/cLOd03UGmH8)
+- [The Black Keys - I Forgot To Be Your Lover](https://www.youtube.com/watch?v=EV6RnQOPTN4)
 
 ## Visual 🖼️
 - [Esoteric Forms Emerge from Wood in Aleph Geddis's Enchanting Geometric Sculptures](https://www.thisiscolossal.com/2024/02/aleph-geddis-wood-sculptures/)
@@ -59,5 +60,6 @@ _// My new favourite tmux theme._
 _// My new favourite Neovim plugin! Much better than harpoon to navigate multiple files._
 - [Jan | Open-source ChatGPT Alternative](https://jan.ai/
 )
-_// One of the many alternatives at this point, but still interesting to keep an eye at._
+_// One of the many alternatives at this point, but still interesting to keep an eye on._
+- [CantuCodes (YouTube Channel)](https://www.youtube.com/@cantucodes) _// This guy (neo)vims! Nice short videos covering Neovim plugins._
 
