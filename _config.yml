@@ -6,7 +6,7 @@ description: "This is Mauro's personal website. Motion designer, music lover, ov
 url: https://blog.mauromotion.com
 # baseurl: "/thoughts-in-motion"
 twitter_username: mauromograph
-github_username:  mauromotion
+github_username: mauromotion
 logo: "/assets/images/MauroMotion_logo_v002.png"
 github: [metadata]
 
@@ -21,38 +21,37 @@ plugins:
 
 # Site Author
 author:
-  name             : "Mauro Di Ianni"
-  avatar           : "assets/images/profile_picture.jpg"
-  bio              : "Motion designer, music lover, overall nerd. Pronouns: he/him."
-  location         : "London, UK"
-  email            : 
+  name: "Mauro Di Ianni"
+  avatar: "assets/images/profile_picture.jpg"
+  bio: "Motion designer, music lover, overall nerd. Pronouns: he/him."
+  location: "London, UK"
+  email:
   links:
     - label: "Email"
       icon: "fas fa-envelope"
       url: "mailto:blog@mauromotion.com"
     - label: "GitHub"
-      icon: "fa-brands fa-github"
+      icon: "fa-brands fa-square-github"
       url: "https://github.com/mauromotion"
     - label: "Behance"
       icon: "fab fa-behance-square"
       url: "https://mauromotion.com"
     - label: "Mastodon"
-      icon: "fab fa-mastodon"
+      icon: "fa-brands fa-mastodon"
       url: "https://mograph.social/@mauro"
     - label: "Reddit"
-      icon: "fab fa-reddit"
+      icon: "fa-brands fa-square-reddit"
       url: "https://www.reddit.com/user/mauro_mograph"
     - label: "Last.fm"
       icon: "fab fa-lastfm-square"
       url: "https://www.last.fm/user/madmonk_TM_"
     - label: "Discogs"
-      icon: "fas fa-record-vinyl"
+      icon: "fa-solid fa-record-vinyl"
       url: "https://www.discogs.com/user/theRealMadmonk"
     - label: "Bandcamp"
       icon: "fa-brands fa-bandcamp"
       url: "https://bandcamp.com/mmmotion"
-    
-    
+
 include: ["_pages"]
 
 defaults:
@@ -80,7 +79,7 @@ defaults:
       author_profile: false
       share: true
       show_date: false
-      
+
 # Collections
 collections:
   now:
@@ -96,7 +95,6 @@ footer:
     - label: "Mastodon"
       icon: "fab fa-mastodon"
       url: "https://mograph.social/@mauro"
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
