@@ -13,13 +13,13 @@ author_profile: false
 ### 💻 Work/Study
 
 - Currently focused on building my new skills as a web developer.
-- I'm finishing **CS50w**, gathering ideas for the "capstone" final project.
+- I'm finishing **Harvard's CS50w**, gathering ideas for the "capstone" final project.
 - Learning **React** and **Astro**, while planning to rebuild this website from scracth.
 - As a brilliant procrastination strategy in the last couple of months I've retrained myself to touch type with a different keyboard layout, specifically [Colemak-DH](https://colemakmods.github.io/mod-dh/). I'm at 50 wpm on average right now, and it is SO MUCH more comfortable and ergonomic than Qwerty. No regrets!
 
 ### 💪 Body
 
-- I've been training with weights at the gym pretty constantly, three times per week since February, learning a lot in the process and feeling much better.
+- I've been training with weights at the gym pretty consistently, three times per week since February, learning a lot in the process and feeling much better.
 - Running-wise, after keeping a good streak of 100k per month this year, in May I had to slow it down because of some soreness in my right glute. Turns out, alternating gym and running 6 days a week at (almost) 44 years of young age could be asking a bit too much to myself.
 
 ## 🧠 Mind
@@ -40,7 +40,7 @@ author_profile: false
 
 ### 🕹️ Playing
 
-- I finally got into **Cyberpunk 2077** and I'm liking it so far.
+- I've finally got into **Cyberpunk 2077** and I'm liking it so far.
 - I keep trying to get into **Total War** strategy games but I just can't for some reason, they feel pretentiously complicated for what in fact they are. Also I find the Warhammer fantasy theme quite lame tbh.
 
 ### 🔭 Looking forward to...
