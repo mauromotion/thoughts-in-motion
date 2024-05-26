@@ -3,7 +3,7 @@ layout: single
 title: "Sunday morning ramblings - London, Canary Wharf, the IndieWeb"
 toc: false
 date: 2024-05-26 13:00:00 +0000
-categories: Travelling, IndieWeb
+categories: Travelling IndieWeb
 ---
 
 Yesterday was a sunny end of May Saturday, and we walked for about 20 Km. From Blackfriars Station we followed the river Thames, and the river of tourists, towards East on the South bank. We arrived at Borough Market, which was extremely crowded. It reminded me of my first covid vaccine (which for some reason I ended up getting very close to that area) when the market's stalls were all closed and there were very few people walking around, an eerie experience. The contrast with yesterday's overly crowded and overflowing streets was stark indeed. I ended up ordering a chicken and prawns Pad Thai, a classic for me, and it was probably the best Pad Thai I've ever had so far in London.
